@@ -1,4 +1,4 @@
-# flutter_translator
+# Flutter Translator🌐
 
 A new Flutter project.
 
